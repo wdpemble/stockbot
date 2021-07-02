@@ -1,0 +1,4 @@
+API_KEY = "PKOKRJRP6866PXA6VGX8"
+SECRET_KEY = "rXco7dXRMY3OSIc7sPZQL1YFFVWqOuixLFyuzK5O"
+BASE_URL = "https://paper-api.alpaca.markets"
+ACCOUNT_ENDPOINT = "/v2/account"
